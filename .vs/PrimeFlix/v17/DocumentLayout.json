@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|c:\\users\\utsav kumar\\source\\repos\\primeflix\\components\\ui\\paginator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|solutionrelative:components\\ui\\paginator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|c:\\users\\utsav kumar\\source\\repos\\primeflix\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|c:\\users\\utsav kumar\\source\\repos\\primeflix\\components\\ui\\paginator.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|solutionrelative:components\\ui\\paginator.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|c:\\users\\utsav kumar\\source\\repos\\primeflix\\services\\tmdbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|solutionrelative:services\\tmdbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|c:\\users\\utsav kumar\\source\\repos\\primeflix\\components\\pages\\movie.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|solutionrelative:components\\pages\\movie.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|c:\\users\\utsav kumar\\source\\repos\\primeflix\\components\\pages\\movie.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|solutionrelative:components\\pages\\movie.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|c:\\users\\utsav kumar\\source\\repos\\primeflix\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|c:\\users\\utsav kumar\\source\\repos\\primeflix\\models\\popularmoviepagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE8D263-175D-4E91-A9B6-DD6EB4B761F2}|PrimeFlix.csproj|solutionrelative:models\\popularmoviepagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PopularMoviePagedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Models\\PopularMoviePagedResponse.cs",
+              "RelativeDocumentMoniker": "Models\\PopularMoviePagedResponse.cs",
+              "ToolTip": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Models\\PopularMoviePagedResponse.cs",
+              "RelativeToolTip": "Models\\PopularMoviePagedResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:52:09.299Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwDEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T07:22:37.907Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paginator.razor.css",
+              "DocumentMoniker": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\UI\\Paginator.razor.css",
+              "RelativeDocumentMoniker": "Components\\UI\\Paginator.razor.css",
+              "ToolTip": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\UI\\Paginator.razor.css",
+              "RelativeToolTip": "Components\\UI\\Paginator.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-25T18:06:30.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paginator.razor",
+              "DocumentMoniker": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\UI\\Paginator.razor",
+              "RelativeDocumentMoniker": "Components\\UI\\Paginator.razor",
+              "ToolTip": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\UI\\Paginator.razor",
+              "RelativeToolTip": "Components\\UI\\Paginator.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T17:53:47.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TMDBClient.cs",
+              "DocumentMoniker": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Services\\TMDBClient.cs",
+              "RelativeDocumentMoniker": "Services\\TMDBClient.cs",
+              "ToolTip": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Services\\TMDBClient.cs",
+              "RelativeToolTip": "Services\\TMDBClient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:44:39.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.razor.css",
+              "DocumentMoniker": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\Pages\\Movie.razor.css",
+              "RelativeDocumentMoniker": "Components\\Pages\\Movie.razor.css",
+              "ToolTip": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\Pages\\Movie.razor.css",
+              "RelativeToolTip": "Components\\Pages\\Movie.razor.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-25T16:09:36.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.razor",
+              "DocumentMoniker": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\Pages\\Movie.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Movie.razor",
+              "ToolTip": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\Pages\\Movie.razor",
+              "RelativeToolTip": "Components\\Pages\\Movie.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwEQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T15:14:34.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T10:02:03.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\obj\\Debug\\net8.0\\compressed\\d80tdtz7l0.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PrimeFlix.styles.css",
+      "PackagePath": "staticwebassets\\PrimeFlix.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\css\\themes.css",
+      "PackagePath": "staticwebassets\\css\\themes.css"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\images\\BlazorMovieLogo_v2_o.png",
+      "PackagePath": "staticwebassets\\images\\BlazorMovieLogo_v2_o.png"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\images\\BlazorMovieLogo_v2_w.png",
+      "PackagePath": "staticwebassets\\images\\BlazorMovieLogo_v2_w.png"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\images\\MarkSpectreLogoLight.png",
+      "PackagePath": "staticwebassets\\images\\MarkSpectreLogoLight.png"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\images\\PosterPlaceHolder.png",
+      "PackagePath": "staticwebassets\\images\\PosterPlaceHolder.png"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\images\\THEMOVEDBLogo.svg",
+      "PackagePath": "staticwebassets\\images\\THEMOVEDBLogo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Utsav Kumar\\source\\repos\\PrimeFlix\\wwwroot\\js\\vanilla-tilt.min.js",
+      "PackagePath": "staticwebassets\\js\\vanilla-tilt.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PrimeFlix.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PrimeFlix.props",
+      "PackagePath": "build\\PrimeFlix.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PrimeFlix.props",
+      "PackagePath": "buildMultiTargeting\\PrimeFlix.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PrimeFlix.props",
+      "PackagePath": "buildTransitive\\PrimeFlix.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
