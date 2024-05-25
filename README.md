@@ -7,3 +7,8 @@ and even visit the respective movie IMDB page.
 - Movie details
 - IMDB links
 - Link to watch movie online
+
+
+Built using Blazor and .Net Framework.
+
+
