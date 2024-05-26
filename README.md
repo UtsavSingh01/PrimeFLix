@@ -12,9 +12,10 @@ and even visit the respective movie IMDB page.
 Built using Blazor and .Net Framework.
 
 Home Page
-![image](https://github.com/UtsavSingh01/PrimeFLix/assets/88433518/2ec310ac-f12e-4602-8943-af072385b4c0)
+![Screenshot (4)](https://github.com/UtsavSingh01/PrimeFLix/assets/88433518/c36522a3-b481-4f17-ae2a-71c41c65a0c5)
 
 
 
-Movie detail page
+
+Movie Detail page
 ![Screenshot (3)](https://github.com/UtsavSingh01/PrimeFLix/assets/88433518/239f72ee-be7b-4c4d-bce4-1f14714eb1c9)
