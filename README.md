@@ -12,7 +12,8 @@ and even visit the respective movie IMDB page.
 Built using Blazor and .Net Framework.
 
 Home Page
-![Screenshot (2)](https://github.com/UtsavSingh01/PrimeFLix/assets/88433518/c7dcf4ec-790a-4038-852d-6d25b4650423)
+![image](https://github.com/UtsavSingh01/PrimeFLix/assets/88433518/2ec310ac-f12e-4602-8943-af072385b4c0)
+
 
 
 Movie detail page
