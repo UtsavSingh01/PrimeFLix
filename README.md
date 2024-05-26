@@ -17,5 +17,5 @@ Home Page
 
 
 
-Movie Detail page
+Movie Detail Page
 ![Screenshot (3)](https://github.com/UtsavSingh01/PrimeFLix/assets/88433518/239f72ee-be7b-4c4d-bce4-1f14714eb1c9)
